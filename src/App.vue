@@ -1,7 +1,6 @@
 <template>
   <div id="app">
     <dialogView></dialogView>
-
   </div>
 </template>
 <script>

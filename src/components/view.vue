@@ -1,5 +1,6 @@
 <template>
   <div class="view">
+	<div>海内存知己，天涯若比邻</div>
 		<!-- <div>
 			<input type="password" pattern="password">
 		</div>
@@ -21,18 +22,13 @@ export default {
 
 <style>
 	.view{
-		width: 420px;
-		height: 280px;
+		font-size: 46px;
+		color: aliceblue;
 		position: absolute;
-		margin: auto;
-		top: 0px;
-		bottom: 200px;
-		right: 0px;
-		left: 0px;
-		background-color: rgba(240, 248, 255, 0.3);
-		border-radius: 10px;
+		width: 100%;
+		top: 190px;
 		transition: 0.3s;
-		box-sizing: border-box;
+		user-select: none;
 	}
 	.view:hover{
 		box-shadow: 0px 0px 8px rgba(240, 248, 255, 0.3);
