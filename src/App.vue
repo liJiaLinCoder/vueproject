@@ -28,6 +28,7 @@ body{
   color: #2c3e50;
   background-size: cover;
   background-image: url("./assets/skin01.png");
+  background-position: center center;
 }
 
 </style>
